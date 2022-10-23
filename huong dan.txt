@@ -1,0 +1,4 @@
+client_pc : module mqtt gửi tín hiệu cảnh báo từ pc sang app
+email_img : gửi ảnh hiện trường khi phát hiện lửa lên email
+main_cpu_fire_detection :phát hiện lửa
+main_mutil_cpu_fire_detection : phát hiện lửa + âm thanh cảnh báo + thông báo qua app (đa luồng)
