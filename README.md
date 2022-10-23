@@ -1,2 +1,2 @@
-### Yolov4-tiny-fire-detection-on-cpu
+# Yolov4-tiny-fire-detection-on-cpu
 ## Updating ....
